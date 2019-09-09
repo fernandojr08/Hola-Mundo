@@ -1,3 +1,2 @@
 # Hola-Mundo
-primer repositorio
-Estudiante de Ingenieria Geografica- UNMSM
+Estudiante de Ingenieria Geografica
